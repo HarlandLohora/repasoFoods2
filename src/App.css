@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+
+.foods{
+  display: flex;
+  flex-wrap: wrap;
+}
